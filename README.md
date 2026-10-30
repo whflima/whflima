@@ -1,8 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=666668&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=666668&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Welisson+Lima;I'm+23+years+old;I'm+from+Brazil;I+graduated+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=666668&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Welisson+Lima;I'm+26+years+old;I'm+from+Brazil;I+graduated+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<!-- 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whflima&bg_color=0d1117&color=808080&line=d4d4d4&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+--> 
 
 ### Main skills:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
@@ -16,10 +18,17 @@
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
-<div align="center">
+<!-- <div align="center">
   <h4 align="center">Visitor's count :eyes:</h4></p>  
   <p align="center"><img src="https://profile-counter.glitch.me/{whflima}/count.svg" alt="WelissonLima :: Visitor's Count" /></p> 
-</div>
+</div> -->
+
+  <h4 align="center">Visitor's count :eyes:</h4></p>  
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=whflima&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
 
 <br>
 <div align="center"> 
